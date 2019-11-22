@@ -2,7 +2,7 @@
 2D sidescrolling-Rougelite, takes place underwater in a dark cave with limited visibility and limited UI
 
 Introduce members
-![](group Picture)
+![](group picture.png)
 
 Luis Sandoval:
 Animations, UI, Art
