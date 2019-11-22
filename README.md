@@ -14,7 +14,7 @@ GameDesign, Art, Music
 
 
 3) Present the sketch
-![](Concept.png)
+![](CONCEPT.png)
 
 
 
