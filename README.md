@@ -34,6 +34,10 @@ combat and enemies:
 
 Familiarization with the engine
 
+Animations in progress:
+
+![](Demo.gif)
+
 5)The Plan to move forward
 
 begin implementation
