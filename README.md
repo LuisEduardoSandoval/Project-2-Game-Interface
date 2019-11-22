@@ -20,6 +20,8 @@ GameDesign, Art, Music
 
 4)How far did you go with the implementation 
 
-
+Level layout inprogress with UI.
 
 5)The Plan to move forward
+
+Finalize assets and Level design
