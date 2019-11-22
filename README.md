@@ -14,7 +14,13 @@ GameDesign, Art, Music
 
 
 3) Sketch and functions
-![](CONCEPT.png)
+![](CONCEPT1.png)
+
+
+
+Pause Menu
+![](CONCEPT2.png)
+
 
 RandomizedTilesets:
 
