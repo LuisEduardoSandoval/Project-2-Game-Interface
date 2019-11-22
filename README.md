@@ -13,8 +13,14 @@ GameDesign, Art, Music
 
 
 
-3) Present the sketch
+3) Sketch and functions
 ![](CONCEPT.png)
+
+RandomizedTilesets:
+
+Lighting engine:
+
+combat and enemies:
 
 
 
