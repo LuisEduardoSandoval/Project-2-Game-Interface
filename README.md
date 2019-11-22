@@ -20,7 +20,7 @@ GameDesign, Art, Music
 
 4)How far did you go with the implementation 
 
-Level layout inprogress with UI.
+Familiarization with the engine
 
 5)The Plan to move forward
 
