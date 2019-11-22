@@ -1,5 +1,5 @@
 # Project-2-Game-Interface
-2D Platformer-Rougelite
+2D sidescrolling-Rougelite, takes place underwater in a dark cave with limited visibility and limited UI
 
 Introduce members
 
