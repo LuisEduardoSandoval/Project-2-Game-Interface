@@ -36,4 +36,4 @@ Familiarization with the engine
 
 5)The Plan to move forward
 
-Finalize assets and Level design
+begin implementation
