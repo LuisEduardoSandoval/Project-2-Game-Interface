@@ -1,5 +1,6 @@
 # Project-2-Game-Interface
 2D sidescrolling-Rougelite, takes place underwater in a dark cave with limited visibility and limited UI
+DEMO LINK AT BOTTOM
 
 Introduce members
 ![](grouppicture.png)
@@ -46,9 +47,24 @@ Finalized Game
 ![](WorkingGame.gif)
 
 
-Demo Link:
+Demo Link:------------------------------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Task Description:
+
+Play the game:
+
+ Pause the game:
  
- Hypothesis:
+ Deplete Oxygen:
+ 
+ Lose the game:
+ 
+ Try again:
+
+ Beat the game:
+ 
+ 
+Hypothesis:
 
