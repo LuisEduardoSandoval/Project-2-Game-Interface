@@ -68,5 +68,5 @@ Play the game:
  Beat the game:
  
  
-Hypothesis:
+Hypothesis: the testers will have an easy enough time navagating through the level and beating the game.
 
