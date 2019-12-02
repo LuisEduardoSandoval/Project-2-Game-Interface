@@ -50,7 +50,9 @@ Finalized Game
 
 
 Demo Link:------------------------------------------------------------------------------------------------------------------------------
-https://drive.google.com/file/d/1TILITjgYYJp9xkSFEyIcqnGmmCCWAP7c/view?ts=5de4a78a
+Final product Link (MACOS): https://drive.google.com/file/d/1OC6ZmcJ4Y79pgAzvopRsViglBDItQFxv/view?ts=5de55b76
+
+Final product Link (Windows):https://drive.google.com/file/d/1TILITjgYYJp9xkSFEyIcqnGmmCCWAP7c/view?ts=5de4a78a
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 Instructions: WASD to Move 
