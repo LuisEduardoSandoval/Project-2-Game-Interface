@@ -22,8 +22,6 @@ Pause Menu
 ![](CONCEPT2.png)
 
 
-RandomizedTilesets:
-
 Lighting engine:
 
 combat and enemies:
@@ -41,3 +39,16 @@ Animations in progress:
 5)The Plan to move forward
 
 begin implementation
+
+
+Finalized Game
+
+![](WorkingGame.gif)
+
+
+Demo Link:
+
+Task Description:
+ 
+ Hypothesis:
+
